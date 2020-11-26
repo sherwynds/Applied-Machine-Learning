@@ -1,5 +1,5 @@
 # Applied Machine Learning
-📈 Projects and notes from CPSC 330 - Applied Machine Learning
+📈 Projects and notes from CPSC 330: Applied Machine Learning
 
 ## Projects
 2. [Predicing Spotify Likes using Decision Trees](2%20-%20Predicing%20Spotify%20Likes%20using%20Decision%20Trees.ipynb)
