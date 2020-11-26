@@ -8,6 +8,7 @@
 5. [Airbnb Listing Analysis and Feature Importances](5%20-%20Airbnb%20Listing%20Analysis%20and%20Feature%20Importances.ipynb)
 6. [SMS Spam Classification using Transfer Learning, Random Forests, Logistic Regression and Nearest Neighbors](6%20-%20SMS%20Spam%20Classification%20using%20Transfer%20Learning%2C%20Random%20Forests%2C%20Logistic%20Regression%20and%20Nearest%20Neighbors.ipynb)
 7. [Avocado Price Forcasting using Time-series Analysis](7%20-%20Avocado%20Price%20Forcasting%20using%20Time-series%20Analysis.ipynb)
+8. [Basketball Game Winner Predictive Model](https://github.com/sherwynds/Applied-Machine-Learning/blob/main/8%20-%20Basketball%20Game%20Winner%20Predictive%20Model.ipynb)
 
 ## Notes
 - Most of these projects contain data that is not included in this repository; the relevent Kaggle datasets are included in the notebook
